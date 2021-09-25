@@ -1,0 +1,34 @@
+Binary Recursion Time in millisecond:
+
+The time for ExponentialTetranacci(5) in milliseconds is: 1
+The time for ExponentialTetranacci(10) in milliseconds is: 0
+The time for ExponentialTetranacci(15) in milliseconds is: 0
+The time for ExponentialTetranacci(20) in milliseconds is: 2
+The time for ExponentialTetranacci(25) in milliseconds is: 12
+The time for ExponentialTetranacci(30) in milliseconds is: 197
+The time for ExponentialTetranacci(35) in milliseconds is: 4357
+The time for ExponentialTetranacci(40) in milliseconds is: 115963
+
+
+Tail Recursion Time in nanosecond:
+
+The time for ExponentialTetranacci(5) in nanoseconds is: 1005000
+The time for ExponentialTetranacci(10) in nanoseconds is: 21600
+The time for ExponentialTetranacci(15) in nanoseconds is: 36000
+The time for ExponentialTetranacci(20) in nanoseconds is: 29500
+The time for ExponentialTetranacci(25) in nanoseconds is: 41000
+The time for ExponentialTetranacci(30) in nanoseconds is: 41300
+The time for ExponentialTetranacci(35) in nanoseconds is: 40900
+The time for ExponentialTetranacci(40) in nanoseconds is: 217800
+The time for ExponentialTetranacci(45) in nanoseconds is: 88700
+The time for ExponentialTetranacci(50) in nanoseconds is: 56900
+The time for ExponentialTetranacci(55) in nanoseconds is: 56900
+The time for ExponentialTetranacci(60) in nanoseconds is: 60400
+The time for ExponentialTetranacci(65) in nanoseconds is: 70200
+The time for ExponentialTetranacci(70) in nanoseconds is: 132400
+The time for ExponentialTetranacci(75) in nanoseconds is: 68800
+The time for ExponentialTetranacci(80) in nanoseconds is: 68100
+The time for ExponentialTetranacci(85) in nanoseconds is: 59200
+The time for ExponentialTetranacci(90) in nanoseconds is: 69100
+The time for ExponentialTetranacci(95) in nanoseconds is: 63400
+The time for ExponentialTetranacci(100) in nanoseconds is: 67700
